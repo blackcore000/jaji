@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "user": "Ali",
+    "avatar": "/avatars/ali.png",
+    "content": "İlk gönderi",
+    "likes": 10,
+    "views": 200,
+    "comments": 5,
+    "retweets": 2,
+    "timestamp": "2025-08-07T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "user": "Ayşe",
+    "avatar": "/avatars/ayse.png",
+    "content": "Harika bir gün!",
+    "likes": 50,
+    "views": 120,
+    "comments": 15,
+    "retweets": 10,
+    "timestamp": "2025-08-06T15:30:00Z"
+  }
+]
